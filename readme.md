@@ -136,7 +136,7 @@ Author: [**Brian G. Katz**](https://github.com/briangkatz) | Oregon State Univer
 - Click `GitHub / Connect to GitHub`
 - Search for the GitHub repository you created at the beginning of this step, and then click `Connect`
 - Click `Enable Automatic Deploys` to synchronize your `git commit` changes with your Heroku app
-- In the `Settings` tab of your Heroku dashboard, fipush` your repo changes
+- In the `Settings` tab of your Heroku dashboard, find the `Buildpacks` section
 - Click `Add buildpack`, select `nodejs`, and then click `Save changes`
 - Finally, `git add`, `git commit`, and `git push` the changes you made to your repository
 - Back in your Heroku dashboard, click `Open app` to load your live, real-time tweet map!
