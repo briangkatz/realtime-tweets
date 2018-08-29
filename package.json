@@ -1,0 +1,13 @@
+{
+  "name": "realtime-tweet-stream",
+  "private": true,
+  "author": "Brian G. Katz",
+  "scripts": {
+    "start": "node app"
+  },
+  "dependencies": {
+    "express": "*",
+    "socket.io": "*",
+    "twitter": "*"
+  }
+}
