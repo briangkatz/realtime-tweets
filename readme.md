@@ -3,7 +3,7 @@
 
 Author: [**Brian G. Katz**](https://github.com/briangkatz) | Oregon State University | Summer 2018
 
-*Inspired by: [Bo Zhao](https://github.com/jakobzhao/geog371/tree/master/lectures/lec20) and [Stewart Harper](https://blog.safe.com/2014/03/twitter-stream-api-map/)*
+*Inspired by: [Stewart Harper](https://blog.safe.com/2014/03/twitter-stream-api-map/)*
 
 ##### *NOTE: This tutorial requires Twitter Developer API credentials ([apply here](https://developer.twitter.com/en/apply/user)). The application process can take up to a few days from the time you apply for credentials to the time you receive your unique keys. It is therefore recommended that you FIRST apply for your credentials before beginning this tutorial.*
 
@@ -145,7 +145,6 @@ Author: [**Brian G. Katz**](https://github.com/briangkatz) | Oregon State Univer
 
 ## Resources
 
-- GEOG 371: Web Mapping course materials by Bo Zhao at Oregon State University ([GitHub](https://www.github.com/jakobzhao/geog371))
 - Blog post by Stewart Harper ([blog.safe](https://blog.safe.com/2014/03/twitter-stream-api-map/))
 - Node.js ([download](https://nodejs.org/en/download/))
 - Twitter Developer API ([apply here](https://developer.twitter.com/en/apply/user))
